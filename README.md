@@ -1,7 +1,6 @@
 ## Welcome to Shan's blog
 
-You can use the [editor on GitHub](https://github.com/ShawnQin/shawnqin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. I am trying to learn building my own page!
-
+I am currently a PhD student who is interested in applying physics theory and approaches to better understanding various biological systems. I have been working on biolgical dynamical systems for a while and now I am mainly focusing on catastrophic transition in complex dynamical systems.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
