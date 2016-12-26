@@ -12,4 +12,6 @@ Following the tutorial to install ruby, Jekyll and configuration:
 
 * [trouble shooting](http://jekyllrb.com/docs/troubleshooting/#installation-problems)  
 
+* [Another tutorial](https://24ways.org/2013/get-started-with-github-pages/)
+
 The problem here is that the latest version of Ruby (2.4.0) is not compatible with MacOS Sierra. In stead, ruby 2.3.3 seems work well.
