@@ -4,7 +4,8 @@ title: "Install Jekyll on MacOS Sierra"
 date: 2016-12-26
 ---
 
-Following the tutorial to install ruby, Jekyll and configuration:   
+Following the tutorial to install ruby, Jekyll and configuration:  
+
 * [Install ruby](https://gorails.com/setup/osx/10.12-sierra)  
 
 * [Install Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)  
