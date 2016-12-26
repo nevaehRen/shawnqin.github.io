@@ -1,9 +1,11 @@
 ---
 layout: default
-title: coding notes and tips
+title: MATLAB notes
 ---
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
 
-		<div class="MATLAB">
-			<h2>Learning MATLAB</h2>
-			<p>In this page, I summarize all the tips and tricks during my study of MATLAB, hopefully it will help your learning.</p>
-		</div>
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
