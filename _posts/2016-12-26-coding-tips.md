@@ -16,4 +16,4 @@ saving and loading  MATLAB structure
 ``matlabpool numberofpool`` (after MATLAB 2013b，it is replaced by ``parpool``), at the end of script add ``matlabpool colse``
 
 * _Handle large matrix_ After MATLAB 2011b, you can use ``MAT-file`` to save and load part of a ``.mat`` file which accelerate speed when you are running out of memory. The official document can be found [here](http://blogs.mathworks.com/loren/2011/10/14/new-mat-file-functionality-in-r2011b/).  
-Usage: first tranform the big ``mat`` file into MAT-file, use ``matObj = matfile('myBigData.mat');``
+Usage: first tranform the big ``mat`` file into MAT-file, use ``matObj = matfile('myBigData.mat')``. But inorder to use this fucnction the save ``mat`` file has to be version 7.3 format, use ``save('myfile.mat','variables','-v7.3')``.
