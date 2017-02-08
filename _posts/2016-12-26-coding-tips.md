@@ -19,3 +19,5 @@ saving and loading  MATLAB structure
 Usage: first tranform the big ``mat`` file into MAT-file, use ``matObj = matfile('myBigData.mat')``. But inorder to use this fucnction the save ``mat`` file has to be version 7.3 format, use ``save('myfile.mat','variables','-v7.3')``.
 
 * ``eval `` This is a very useful function especially when you want to evaluate a certain commond or phrases in a loop or in a string vector. ``feval`` is the corresponding function for function handles.
+
+* Advanced programming techniques can be found [here](https://math.la.asu.edu/files/support/docs/matlab_workshop/Adv_Programming.pdf)
