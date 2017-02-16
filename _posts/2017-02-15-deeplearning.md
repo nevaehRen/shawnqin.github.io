@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google scholar alerts"
+title: "Deep learning"
 date: 2017-02-15
 ---
 Useful resource about deeplearning.
